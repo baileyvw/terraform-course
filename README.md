@@ -7,8 +7,6 @@
 * Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
 
 * Learn DevOps: Infrastructure Automation With Terraform
-#
-# just going to add the modeules that includes the ecs + ALB modeules demo files
 
 # Demo overview
 Demo Directory | Description
